@@ -1,2 +1,3 @@
 https://www.codeproject.com/Articles/85296/important-uses-of-Delegates-and-Events
 http://www.dotnettricks.com/learn/mvc/aspnet-mvc-request-life-cycle
+https://www.codeproject.com/Articles/73728/ASP-NET-Application-and-Page-Life-Cycle
